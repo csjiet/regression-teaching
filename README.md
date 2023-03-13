@@ -11,6 +11,7 @@ $$
 (\hat{a} - a)^{2} + (\hat{b} - b)^{2}
 $$
 > $a, b$ - parameters generated from the OLS Estimator from all N data points of the training data
+
 > $\hat{a}, \hat{b}$ - parameters generated from the OLS Estimator from n data points of the teaching set, where n $\in$ N. 
 
 - **Enumeration method**: For a teaching set of size k, enumerate all subsets of size k from a set of training data, and which yields combination with the best parameter loss. 
