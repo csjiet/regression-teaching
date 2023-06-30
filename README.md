@@ -1,4 +1,4 @@
-# greedy_machine_teaching_and_knn_classifiers
+# greedy_machine_regression_teaching_and_preview_to_knn_classifiers
 
 Author: Sui Jiet Tay
 
