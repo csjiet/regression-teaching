@@ -1,12 +1,10 @@
-# greedy_machine_regression_teaching_and_preview_to_knn_classifiers
-
-Author: Sui Jiet Tay
+# Machine Teaching: Regression
 
 Code: main.ipynb
 
-Premise: To compare the time complexity and "parameter loss measure" between a normal enumeration method vs a greedy algorithm for teaching point selection, and first glance at the KNN classifier.
+> Goal: To study the time complexity and "parameter loss measure" between a normal enumeration vs a greedy algorithm for `coreset selection`, and a first glance at the KNN classifier.
 
-- "Parameter loss measure"
+"Parameter loss measure"
 
 $$
 (\hat{a} - a)^{2} + (\hat{b} - b)^{2}
